@@ -1,4 +1,4 @@
-# Learning-C-
+# Learning-C#
 A Repo for my C# projects 
 
 I've been really interested in learning C#. since a few weeks now as I've been progressing the foundational course. 
